@@ -81,7 +81,7 @@ button:hover, span:hover {
     cursor: pointer;
 }
 
-.social-buttons button:hover {
+social-buttons button:hover {
     background-color: #555;
 }
 
